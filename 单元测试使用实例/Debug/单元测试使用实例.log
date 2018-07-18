@@ -1,0 +1,6 @@
+﻿  myMath.cpp
+  testCases.cpp
+  正在生成代码...
+Debug\myMath.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+gtestd.lib(gtest-all.obj) : warning LNK4099: 未找到 PDB“gtest.pdb”(使用“gtestd.lib(gtest-all.obj)”或在“C:\Users\Galileo\source\repos\单元测试使用实例\Debug\gtest.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  单元测试使用实例.vcxproj -> C:\Users\Galileo\source\repos\单元测试使用实例\Debug\单元测试使用实例.exe
